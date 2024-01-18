@@ -1,7 +1,7 @@
 # Starlight-Adventures
 Starlight Adventures, a delightful game for kids where you can join our spirited protagonist Starlight, as she leaps through enchanting landscapes, overcoming whimsical obstacles, collecting sparkling gold coins along the way. Dive into a world of fun and imagination in this engaging 7 levels pygame platformer designed for young adventurers!
 
-# Goals of the game:
+# Goal of the game:
 Help Starlight reach the Golden Portals from the Silver Portals safely overcoming obstacles
 Collect sparkly gold coins along the way, the more you have, the more richer you are!
 Avoid falling into burning lava or getting stabbed by pointy pins!
