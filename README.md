@@ -17,4 +17,6 @@ Right arrow for walking to the right
 
 # All assets are hand drawn in Microsoft Paint
 
+# Gameplay and screen shots are provided
+
 # Music credit goes to rightful owners in youtube
