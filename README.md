@@ -1,2 +1,2 @@
 # Starlight-Adventures
-Starlight Adventures, a delightful game for kids where you join our spirited protagonist as she leaps through enchanting landscapes, overcoming whimsical obstacles, collecting sparkling gold coins along the way. Dive into a world of fun and imagination in this engaging pygame platformer designed for young adventurers!
+Starlight Adventures, a delightful game for kids where you can join our spirited protagonist as she leaps through enchanting landscapes, overcoming whimsical obstacles, collecting sparkling gold coins along the way. Dive into a world of fun and imagination in this engaging pygame platformer designed for young adventurers!
