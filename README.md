@@ -4,7 +4,7 @@ Starlight Adventures, a delightful game for kids where you can join our spirited
 ## 🎯 Goal of the game:
 - Help Starlight reach the Golden Portals from the Silver Portals safely overcoming obstacles
 - Collect sparkly gold coins along the way, the more you have, the more richer you are!
-- Avoid falling into burning lava or getting stabbed by pointy pins!
+- Avoid falling into burning lava or getting stabbed by spikey pins!
 - Beaware of terrible monsters on the way and avoid contact with them!
 - Overcome the Boss Monster at the last level to win the game
 
