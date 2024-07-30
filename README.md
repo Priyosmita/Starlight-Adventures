@@ -21,6 +21,6 @@ Starlight Adventures, a delightful game for kids where you can join our spirited
 - **Bg Music**: <img src="https://images.fineartamerica.com/images/artworkimages/medium/3/greeting-cards-bts-permission-to-dance-on-stage-logo-ps56-panker-susan-transparent.png" alt="bts permission to dance" width="25" height="35"/>
 - **Sounds**: <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="microsoft paint" width="30" height="30"/>
 
-## 🎥 Watch the gameplay here: 
+## [🎥 Watch the gameplay here](https://drive.google.com/file/d/1q9NP_7Or_mp-bEMtRmQH-rt6S2rpTUC_/view?usp=sharing")
 
 ## 🎮 Deployed Playable version coming soon!
