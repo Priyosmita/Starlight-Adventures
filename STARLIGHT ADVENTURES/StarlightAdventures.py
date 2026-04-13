@@ -565,9 +565,12 @@ while not cross:
             if pygame.sprite.spritecollide(player,coingroup,True):
                 score+=1
                 coinmusic.play()
-            drawtext('Level: '+str(level),font,black,tile_size,7)
-            drawtext('Coins: '+str(score),font,black,tile_size+150,7)
-            drawtext('Total Score: '+str(totscore),font,black,tile_size+300,7)
+                
+            drawtext('Navigation: '+'Arrow Keys',font,black,tile_size,7)
+            drawtext('Level: '+str(level),font,black,tile_size+350,7)
+            drawtext('Coins: '+str(score),font,black,tile_size+550,7)
+            drawtext('Total Score: '+str(totscore),font,black,tile_size+750,7)
+        
         kukoshibogroup.draw(screen)
         spidergroup.draw(screen)
         lavagroup.draw(screen)
